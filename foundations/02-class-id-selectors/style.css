@@ -1,0 +1,18 @@
+/*SHARED*/
+.pink-background {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.bigger-font {
+    font-size: 24px;
+}
+
+/*UNIQUE*/
+#big-and-blue-text {
+    color: blue;
+    font-size: 36px;
+}
+#fourth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
